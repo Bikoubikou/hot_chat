@@ -1,8 +1,21 @@
-{
-  "videos": [
-    "https://h.top4top.io/m_3179dq6o20.mp4",
-    "https://c.top4top.io/m_3179vlu9x0.mp4",
-    "https://c.top4top.io/m_3179ke8z90.mp4"
-  ]
-}
+[
+  {
+    "videoUrl": ""https://h.top4top.io/m_3179dq6o20.mp4",",
+    "username": "User1",
+    "age": 25,
+    "location": "Location1"
+  },
+  {
+    "videoUrl": "https://c.top4top.io/m_3179vlu9x0.mp4",
+    "username": "User2",
+    "age": 30,
+    "location": "Location2"
+  },
+  {
+    "videoUrl": "https://c.top4top.io/m_3179ke8z90.mp4",
+    "username": "User3",
+    "age": 22,
+    "location": "Location3"
+  }
+]
 
